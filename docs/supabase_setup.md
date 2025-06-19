@@ -21,16 +21,15 @@ If you don't already have one, create a new account on [Supabase](https://supaba
 Once your project is ready, you need to get your API URL and anon key.
 
 1.  In the left sidebar, click on the "Project Settings" icon (the gear).
-2.  In the settings menu, click on "API Keys".
-3.  You will find your database "URL" under the "Data API" section:
+2.  You will find your database "URL" under the "Data API" section:
 
     ![Database URL](/screens/db-url.png)
 
-4.  You will find your `anon` "public" key under "Project API keys":
+3.  You will find your `anon` "public" key under "API keys":
 
     ![API Credentials](/screens/api-keys.png)
 
-5.  Copy these two values and paste them into your `.env` file:
+4.  Copy these two values and paste them into your `.env` file:
 
     ```
     SUPABASE_URL="YOUR_SUPABASE_URL"

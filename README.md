@@ -119,8 +119,7 @@ Here are the key concepts of REST:
 ├── app
 │   └── main.py         # Your FastAPI application code
 ├── docs
-│   ├── supabase_setup.md # Guide to setting up Supabase
-│   └── react_frontend_setup.md # Guide to setting up the frontend
+│   └── supabase_setup.md # Guide to setting up Supabase
 ├── .env.example        # Example environment file
 ├── .gitignore          # Files to be ignored by Git
 ├── README.md           # This file
@@ -133,7 +132,7 @@ For a detailed guide on how to set up a Supabase project and connect it to this 
 
 ## Setting up the Frontend
 
-For a guide on how to set up a React frontend to work with this backend, please see the [React Frontend Setup Guide](./docs/react_frontend_setup.md).
+For a guide on how to set up a React frontend to work with this backend, please see the [React Frontend Setup Guide](https://github.com/siddiki8/hackDI-frontend-starter).
 
 ## Running the Server
 
