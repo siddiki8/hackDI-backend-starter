@@ -1,0 +1,17 @@
+# Environments
+.env
+.env*.local
+# example.env
+
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Virtual Environments
+venv/
+.venv/ 
